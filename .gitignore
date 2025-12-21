@@ -1,0 +1,18 @@
+# Images
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.webp
+
+# Videos
+*.mp4
+*.mov
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build / cache
+node_modules/
+dist/
